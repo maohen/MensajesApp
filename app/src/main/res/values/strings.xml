@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mensajes App</string>
+    <string name="horaMensaje">18:30</string>
+    <string name="nombrePersona">Pedro Pablo</string>
+    <string name="AsuntoMensaje">Bienvenido al equipo</string>
+    <string name="mensaje">Te damos la bienvenida con este mensaje, gracias por ...</string>
+    <string name="btnVolver">Volver</string>
+    <string name="idNombre">Nombre:</string>
+    <string name="idTelefono">Telefono:</string>
+    <string name="idPais">Pais:</string>
+    <string name="idMensaje">Mensaje:</string>
+    <string name="idAsunto">Asunto:</string>
+
+</resources>
